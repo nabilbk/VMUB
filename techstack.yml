@@ -1,0 +1,39 @@
+repo_name: nabilbk/VMUB
+report_id: d8a21606827970d9979f24ded43552d5
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-05T11:06:45+00:00'
+requested_by: DavidBrenner3
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Pascal
+  description: An imperative and procedural programming language
+  website_url: https://en.wikipedia.org/wiki/Pascal_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/25462/default_b93b3ffaf8650f0584d7b2e14dd145f599722cae.png
+  detection_source_url: https://github.com/nabilbk/VMUB
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nabilbk/VMUB
+  detection_source: Repo Metadata
+- name: Mathematica
+  description: Bringing computation and knowledge to everything. Creators of Mathematica,
+    @Wolfram_Alpha, Wolfram Language. Founded in 1987 by @stephen_wolfram.
+  website_url: http://www.wolfram.com/mathematica/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4216/Mathematica.png
+  detection_source_url: https://github.com/nabilbk/VMUB
+  detection_source: Repo Metadata
